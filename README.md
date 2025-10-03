@@ -1,72 +1,115 @@
 <div align="center">
-  
+
 ![RootSource AI Logo](https://github.com/Rafi-uzzaman/RootSource/blob/main/assets/logo.png)
 
+### *Revolutionizing Agriculture Through Artificial Intelligence*
 
-> **Revolutionizing Agriculture Through Artificial Intelligence**
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-brightgreen)](https://rootsource.up.railway.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Rafi-uzzaman/RootSource)
-[![Figma](https://img.shields.io/badge/Figma-Design_Preview-orange)](https://www.figma.com/proto/UFxkbSyTjdqsrhprPTPLa6?node-id=0-1&t=lTIFhfpSO9kMOfJp-6)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-brightgreen?style=for-the-badge)](https://rootsource.up.railway.app/)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-Repository-blue?style=for-the-badge)](https://github.com/Rafi-uzzaman/RootSource)
+[![Figma](https://img.shields.io/badge/🎨_Design-Preview-orange?style=for-the-badge)](https://www.figma.com/proto/UFxkbSyTjdqsrhprPTPLa6?node-id=0-1&t=lTIFhfpSO9kMOfJp-6)
+[![License](https://img.shields.io/badge/📄_License-MIT-yellow?style=for-the-badge)](/LICENSE)
 
 </div>
 
+---
+
 ## 🌍 Overview
 
-Climate change is destabilizing agriculture worldwide, leaving farmers vulnerable to unpredictable rainfall, droughts, floods, and pests. While NASA satellites already generate critical datasets on soil moisture, precipitation, and crop health, this information is often locked in complex scientific formats, inaccessible to the very people who need it most. 
+<div align="center">
 
-**The result**: Billions in crop losses, rising food insecurity, and preventable human tragedies.
+> **"Where NASA meets Agriculture, Intelligence meets Innovation"**
 
-**RootSource** addresses this gap by transforming NASA's Earth observation data into localized, actionable, and farmer-friendly insights. Built as the world's first NASA-powered AI agricultural exploration game and decision-support system, RootSource combines real-time datasets from SMAP, GPM, MODIS, GLDAS, LANDSAT, GRACE, and POWER with a gamified learning experience and multilingual AI advisor.
+</div>
 
-## ✨ Key Features
+Climate change is destabilizing agriculture worldwide, leaving farmers vulnerable to unpredictable rainfall, droughts, floods, and pests. While NASA satellites already generate critical datasets on soil moisture, precipitation, and crop health, this information is often locked in complex scientific formats, inaccessible to the very people who need it most.
 
-### 🛰️ **NASA Data Integration**
-- **SMAP** - Soil Moisture Active Passive data
-- **GPM** - Global Precipitation Measurement
-- **MODIS** - Moderate Resolution Imaging Spectroradiometer
-- **GLDAS** - Global Land Data Assimilation System
-- **LANDSAT** - Land surface imaging and analysis
-- **GRACE** - Gravity Recovery and Climate Experiment
-- **POWER** - Prediction of Worldwide Energy Resources
+<div align="center">
 
-### 🎮 **Gamified Learning Experience**
-- Interactive agricultural exploration game
-- Educational modules for sustainable farming practices
-- Achievement-based learning system
-- Real-world scenario simulations
+**⚠️ The Critical Challenge ⚠️**
 
-### 🤖 **AI-Powered Advisory System**
-- Multilingual support for global accessibility
-- Personalized crop recommendations
-- Weather pattern analysis and predictions
-- Pest and disease early warning systems
+*Billions in crop losses • Rising food insecurity • Preventable human tragedies*
 
-### 📊 **Decision Support Tools**
-- Real-time crop health monitoring
-- Soil moisture and irrigation recommendations
-- Climate risk assessment
-- Yield optimization strategies
+</div>
+
+**🛰️ RootSource** addresses this gap by transforming NASA's Earth observation data into localized, actionable, and farmer-friendly insights. Built as the world's first NASA-powered AI agricultural exploration game and decision-support system, RootSource combines real-time datasets from **SMAP**, **GPM**, **MODIS**, **GLDAS**, **LANDSAT**, **GRACE**, and **POWER** with a gamified learning experience and multilingual AI advisor.
 
 ## 📌 Project Resources
 
-### 💻 **Source Code & Documentation**
-Access the complete codebase: **[https://github.com/Rafi-uzzaman/RootSource](https://github.com/Rafi-uzzaman/RootSource)**
+<div align="center">
 
-### 🚀 **RootSource AI Live**
-Experience RootSource AI in action: **[https://rootsource.up.railway.app/](https://rootsource.up.railway.app/)**
+| 📡 **Live Experience** | 💻 **Development** | 🎨 **Design System** |
+|:---:|:---:|:---:|
+| [**Try RootSource AI**](https://rootsource.up.railway.app/) | [**Source Code**](https://github.com/Rafi-uzzaman/RootSource) | [**Figma Prototype**](https://www.figma.com/proto/UFxkbSyTjdqsrhprPTPLa6?node-id=0-1&t=lTIFhfpSO9kMOfJp-6) |
+| Experience the AI in action | Complete codebase & docs | Interactive design preview |
 
+</div>
 
 ### 🎨 **Design & Prototypes**
-- **Application Preview**: [Interactive Figma Prototype](https://www.figma.com/proto/UFxkbSyTjdqsrhprPTPLa6?node-id=0-1&t=lTIFhfpSO9kMOfJp-6)
-  > *RootSource AI also included in application*
-- **Design Source**: [Complete Design System](https://www.figma.com/design/UFxkbSyTjdqsrhprPTPLa6/RootSource?m=auto&t=lTIFhfpSO9kMOfJp-1)
+- **🎯 Application Preview**: [Interactive Figma Prototype](https://www.figma.com/proto/UFxkbSyTjdqsrhprPTPLa6?node-id=0-1&t=lTIFhfpSO9kMOfJp-6)
+  > *Complete RootSource AI experience included*
+- **📐 Design Source**: [Complete Design System](https://www.figma.com/design/UFxkbSyTjdqsrhprPTPLa6/RootSource?m=auto&t=lTIFhfpSO9kMOfJp-1)
 
-### 📚 **Documentation**
-Comprehensive project documentation: **[https://github.com/Rafi-uzzaman/RootSourceFigma](https://github.com/Rafi-uzzaman/RootSourceFigma)**
+### 📚 **Documentation Hub**
+Comprehensive project documentation: **[RootSource Documentation](https://github.com/Rafi-uzzaman/RootSourceFigma)**
+
+## ✨ Key Features
+
+<div align="center">
+
+### 🌟 **What Makes RootSource Revolutionary**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ **NASA Data Integration**
+- **🌊 SMAP** - Soil Moisture Active Passive data
+- **🌧️ GPM** - Global Precipitation Measurement
+- **📡 MODIS** - Moderate Resolution Imaging Spectroradiometer
+- **🌍 GLDAS** - Global Land Data Assimilation System
+- **📸 LANDSAT** - Land surface imaging and analysis
+- **⚖️ GRACE** - Gravity Recovery and Climate Experiment
+- **⚡ POWER** - Prediction of Worldwide Energy Resources
+
+### 🎮 **Gamified Learning Experience**
+- 🎯 Interactive agricultural exploration game
+- 📚 Educational modules for sustainable farming practices
+- 🏆 Achievement-based learning system
+- 🌱 Real-world scenario simulations
+
+</td>
+<td width="50%">
+
+### 🤖 **AI-Powered Advisory System**
+- 🌐 Multilingual support for global accessibility
+- 🌾 Personalized crop recommendations
+- 🌤️ Weather pattern analysis and predictions
+- 🐛 Pest and disease early warning systems
+
+### 📊 **Decision Support Tools**
+- 📈 Real-time crop health monitoring
+- 💧 Soil moisture and irrigation recommendations
+- 🌡️ Climate risk assessment
+- 📊 Yield optimization strategies
+
+</td>
+</tr>
+</table>
+
+
+---
 
 ## 🛠️ Technology Stack
+
+<div align="center">
+
+### ⚡ **Enterprise-Grade Architecture**
+
+*Powered by cutting-edge technologies for maximum performance and scalability*
+
+</div>
 
 ### 🤖 **AI & Machine Learning**
 - **Groq LLaMA 3.1 8B** - Ultra-fast AI inference for agricultural intelligence
@@ -122,13 +165,21 @@ Comprehensive project documentation: **[https://github.com/Rafi-uzzaman/RootSour
 - **Secure API Authentication** - Protected NASA data access with proper credentials
 - **Environment Variable Protection** - Sensitive configuration management
 
+---
+
 ## 🌟 Impact & Mission
+
+<div align="center">
 
 ### 🎯 **Core Mission Statement**
 
 > *"Transforming millions of people into Earth's agricultural guardians through the unprecedented fusion of NASA satellite technology, advanced AI intelligence, and gamified learning experiences."*
 
-RootSource is not just an AI assistant—it's a **world-changing platform** engineered to address the most critical challenges facing global agriculture through innovative technology and educational gaming.
+**🚀 RootSource is not just an AI assistant—it's a world-changing platform**
+
+*Engineered to address the most critical challenges facing global agriculture through innovative technology and educational gaming*
+
+</div>
 
 ### 🌍 **Global Impact Goals**
 
@@ -202,23 +253,25 @@ RootSource is not just an AI assistant—it's a **world-changing platform** engi
 
 *Together, we're not just building software—we're cultivating a sustainable future where technology serves those who feed the world.*
 
-## 🔗 Quick Links
+---
 
-| Resource | Description | URL |
-|----------|-------------|-----|
-| 🌐 **Live Application** | Experience RootSource AI | [rootsource.up.railway.app](https://rootsource.up.railway.app/) |
-| 💻 **AI Source Code** | Complete GitHub Repository | [RootSource Repository](https://github.com/Rafi-uzzaman/RootSource) |
-| 🎨 **Interactive Prototype** | Figma Application Preview | [Design Prototype](https://www.figma.com/proto/UFxkbSyTjdqsrhprPTPLa6?node-id=0-1&t=lTIFhfpSO9kMOfJp-6) |
-| 📐 **Design System** | Complete Design Files | [Figma Design Source](https://www.figma.com/design/UFxkbSyTjdqsrhprPTPLa6/RootSource?m=auto&t=lTIFhfpSO9kMOfJp-1) |
-| 📖 **Documentation** | Project Documentation | [RootSource Docs](https://github.com/Rafi-uzzaman/RootSourceFigma) |
+## 🔗 Quick Access Hub
 
+<div align="center">
+
+| 🌐 **Live Experience** | 💻 **Development** | 🎨 **Design** | 📚 **Resources** |
+|:---:|:---:|:---:|:---:|
+| [**Try RootSource AI**](https://rootsource.up.railway.app/) | [**Source Code**](https://github.com/Rafi-uzzaman/RootSource) | [**Figma Prototype**](https://www.figma.com/proto/UFxkbSyTjdqsrhprPTPLa6?node-id=0-1&t=lTIFhfpSO9kMOfJp-6) | [**Documentation**](https://github.com/Rafi-uzzaman/RootSourceFigma) |
+| Experience the AI | Complete Repository | Interactive Preview | Complete Docs |
+| [**Design System**](https://www.figma.com/design/UFxkbSyTjdqsrhprPTPLa6/RootSource?m=auto&t=lTIFhfpSO9kMOfJp-1) | [**Live Demo**](https://rootsource.up.railway.app/) | [**Source Files**](https://github.com/Rafi-uzzaman/RootSource) | [**Project Hub**](https://github.com/Rafi-uzzaman/RootSourceFigma) |
+| Design Components | Real-time Testing | Codebase Access | Knowledge Base |
+
+</div>
+
+
+---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](/LICENSE) file for details.
 
-
-<div align="center">
-  
-
-</div>
